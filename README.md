@@ -99,6 +99,7 @@ and a bundled [marked](https://marked.js.org) parser for Markdown.
 | `Sources/SearchBar.swift` | Search input and navigation controls |
 | `Sources/SearchScript.swift` | Text matching, highlights, and scrollbar markers |
 | `Resources/marked.min.js` | Bundled Markdown parser |
+| `Resources/AppIcon.png` / `AppIcon.icns` | Source artwork and macOS app icon |
 | `Tests/SearchTests.swift` | Integration tests |
 | `Info.plist` | App metadata and supported document types |
 | `build.sh` / `test.sh` | Build and test scripts |

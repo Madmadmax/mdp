@@ -19,6 +19,7 @@ swiftc Sources/*.swift \
 echo "→ assembling bundle…"
 cp Info.plist "$APP/Contents/Info.plist"
 cp Resources/marked.min.js "$RES/marked.min.js"
+cp Resources/AppIcon.icns "$RES/AppIcon.icns"
 
 echo "→ ad-hoc codesign…"
 codesign --force --sign - "$APP" >/dev/null 2>&1 || true

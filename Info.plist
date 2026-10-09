@@ -7,9 +7,11 @@
     <key>CFBundleDisplayName</key>
     <string>mdp</string>
     <key>CFBundleIdentifier</key>
-    <string>com.max.mdp</string>
+    <string>com.madmadmax.mdp</string>
     <key>CFBundleExecutable</key>
     <string>mdp</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
